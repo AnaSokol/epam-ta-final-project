@@ -65,10 +65,4 @@ public class BasePage {
         dropDown.selectByIndex(optionIndex);
     }
 
-
-
-//    public void moveToElement(WebElement element){
-//        Actions actions = new Actions (driver);
-//        actions.moveToElement(element);
-//    }
 }
