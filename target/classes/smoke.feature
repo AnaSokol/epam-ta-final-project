@@ -159,8 +159,8 @@ Feature: Smoke
     And User checks 'Join asos' button visibility
 
     Examples:
-      | loginPage               | email                 |
-      | https://my.asos.com     | asostest404@gmail.com |
+      | loginPage               |
+      | https://my.asos.com     |
 
 
   Scenario Outline: Check sign in with empty fields
